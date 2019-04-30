@@ -1,1 +1,1 @@
-web: flask Belly_Button_Biodiversity.app:app
+web: python Belly_Button_Biodiversity/app.py:app
