@@ -1,1 +1,1 @@
-web: gunicorn deploy:app
+web: gunicorn belly-button-biology/app:app
