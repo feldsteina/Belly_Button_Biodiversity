@@ -1,2 +1,1 @@
-release: cd belly-button-biology
-web: gunicorn app:app
+web: gunicorn --pythonpath belly-button-biology app:app
