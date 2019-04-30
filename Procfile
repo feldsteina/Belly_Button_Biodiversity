@@ -1,1 +1,1 @@
-web: gunicorn ./belly-button-biology/app:app
+web: gunicorn app:app
